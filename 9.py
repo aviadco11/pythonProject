@@ -7,8 +7,8 @@ numbers = [
     958, 609, 842, 451, 688, 753, 854, 685, 93, 857, 440, 380, 126, 721, 328, 753, 470,
     743, 527
 ]
-
-for i in range(len(numbers)):
+# hi hi hi
+for i in range(len(numbers)):#dsfdsf
     if numbers[i] % 2 == 0:
         print(numbers[i])
     if numbers[i] == 237:
